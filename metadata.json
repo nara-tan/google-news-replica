@@ -1,0 +1,6 @@
+{
+  "name": "AI News Briefing",
+  "description": "An AI-powered personalized news briefing and search application inspired by Google News.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
